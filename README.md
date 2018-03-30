@@ -22,6 +22,15 @@ config.yml file:
 dir2category: true
 ```
 
+
+build & preview
+```sh
+hexo clean
+hexo g
+hexo s 
+```
+
+
 ## Sample
 
 The generated categories for post `_post\web\framework\hexo.md` will look like the following:
