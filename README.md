@@ -41,3 +41,6 @@ categories:
   - framework
 ```
 
+# Warning
+
+Your original categories will be **overwriten**.
