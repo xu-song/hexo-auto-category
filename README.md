@@ -2,7 +2,7 @@
 
 Directory to Category for [Hexo](hexo.io).
 
-A plugin to generate categories automatically for each post.
+A plugin to generate hierarchical categories automatically for each post.
 
 ## Installation 
 
@@ -31,7 +31,7 @@ $ hexo s
 
 ## Sample
 
-The generated categories for post `_post\web\framework\hexo.md` look like the following:
+The generated categories for post `source/_post/web/framework/hexo.md` look like the following:
 
 ```yml
 categories:
