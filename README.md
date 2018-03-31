@@ -1,14 +1,12 @@
-# hexo-dir2category
+# hexo-auto-category
 
-Directory to Category for [Hexo](hexo.io).
-
-A plugin to generate hierarchical categories automatically for each post.
+[Hexo](hexo.io) plugin, which generates categories automatically from directory for each post.
 
 ## Installation 
 
 
 ```sh
-$ npm install hexo-dir2category --save
+$ npm install hexo-auto-category --save
 ```
 
 
@@ -41,14 +39,14 @@ categories:
 
 ## Demo
 
-All the categories in [ESON's Blog](https://blog.eson.org/) are generated automatically by `hexo-dir2category`.
+All the categories in [ESON's Blog](https://blog.eson.org/) are generated automatically by `hexo-auto-category`.
 
 ## How it works
 
 
 As a Hexo user, you must be troubled with [front matter](https://hexo.io/zh-cn/docs/front-matter.html) setting for each post.
 With this plugin, you don't need to set `categories` one by one.
-`hexo-dir2category` generates static post `categories` based on directory automatically.
+`hexo-auto-category` generates static post `categories` based on directory automatically.
 
 
 
