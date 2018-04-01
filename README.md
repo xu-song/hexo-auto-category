@@ -15,6 +15,8 @@ $ npm install hexo-auto-category --save
 You can configure this plugin in Hexo `_config.yml`
 
 ```yml
+# Generate categories from directory-tree
+# Dependencies: https://github.com/xu-song/hexo-auto-category
 auto_category: true
 ```
 
