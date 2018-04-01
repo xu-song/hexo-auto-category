@@ -1,6 +1,6 @@
 # hexo-auto-category
 
-[Hexo](hexo.io) plugin, which generates categories automatically from directory for each post.
+[Hexo](hexo.io) plugin, which generates categories automatically from folder structure for each post.
 
 ## Installation 
 
@@ -15,7 +15,7 @@ $ npm install hexo-auto-category --save
 You can configure this plugin in Hexo `_config.yml`
 
 ```yml
-dir2category: true
+auto_category: true
 ```
 
 
@@ -23,7 +23,7 @@ build & preview
 ```sh
 $ hexo clean
 $ hexo g
-$ hexo s 
+$ hexo s
 ```
 
 
@@ -41,13 +41,12 @@ categories:
 
 All the categories in [ESON's Blog](https://blog.eson.org/) are generated automatically by `hexo-auto-category`.
 
-## How it works
+## Background 
 
 
 As a Hexo user, you must be troubled with [front matter](https://hexo.io/zh-cn/docs/front-matter.html) setting for each post.
 With this plugin, you don't need to set `categories` one by one.
-`hexo-auto-category` generates static post `categories` based on directory automatically.
-
+`hexo-auto-category` generates static post `categories` automatically based on directory/folder name.
 
 
 ## Warning

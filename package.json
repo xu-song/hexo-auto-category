@@ -1,6 +1,6 @@
 {
   "name": "hexo-auto-category",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "generate categories from directory for hexo post",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,12 @@
   "keywords": [
     "hexo",
     "directory",
+    "path",
+    "folder",
+    "structure",
     "category",
-    "generation"
+    "generation",
+    "auto"
   ],
   "author": "xu-song",
   "license": "MIT",
@@ -23,7 +27,7 @@
   },
   "homepage": "https://github.com/xu-song/hexo-auto-category#readme",
   "dependencies": {
-    "hexo-front-matter": "^0.1.0",
-    "hexo-fs": "^0.1.0"
+    "hexo-front-matter": "^0.2.3",
+    "hexo-fs": "^0.2.2"
   }
 }
