@@ -29,9 +29,9 @@ $ hexo s
 ```
 
 
-## Sample
+## Example 
 
-The generated categories for post `source/_post/web/framework/hexo.md` look like the following:
+The generated categories for post `source/_post/web/framework/hexo.md` is as follows:
 
 ```yml
 categories:
