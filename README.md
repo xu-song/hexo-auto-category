@@ -17,7 +17,9 @@ You can configure this plugin in site `_config.yml`
 ```yml
 # Generate categories from directory-tree
 # Dependencies: https://github.com/xu-song/hexo-auto-category
-auto_category: true
+auto_category:
+ enable: true
+ depth:   # depth of directory-tree
 ```
 
 
