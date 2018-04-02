@@ -1,6 +1,6 @@
 {
   "name": "hexo-auto-category",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "generate categories from directory for hexo post",
   "main": "index.js",
   "scripts": {
