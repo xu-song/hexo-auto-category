@@ -12,7 +12,7 @@ $ npm install hexo-auto-category --save
 
 ## Configuration
 
-You can configure this plugin in Hexo `_config.yml`
+You can configure this plugin in site `_config.yml`
 
 ```yml
 # Generate categories from directory-tree
@@ -41,7 +41,7 @@ categories:
 
 ## Demo
 
-All the categories in [ESON's Blog](https://blog.eson.org/) are generated automatically by `hexo-auto-category`.
+All the categories in [ESON's Blog](https://blog.eson.org/) are generated automatically by [`hexo-auto-category`](https://github.com/xu-song/hexo-auto-category).
 
 ## Background 
 
