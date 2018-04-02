@@ -26,9 +26,7 @@ auto_category:
 
 build & preview
 ```sh
-$ hexo clean
-$ hexo g
-$ hexo s
+$ hexo clean && hexo g && hexo s
 ```
 
 
