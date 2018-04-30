@@ -8,6 +8,8 @@
 
 [Hexo](hexo.io) plugin, which generates categories automatically from folder structure for each post.
 
+[中文文档](https://blog.eson.org/pub/e2f6e239/)
+
 ## Installation 
 
 
@@ -57,7 +59,7 @@ As a Hexo user, you must be troubled with [front matter](https://hexo.io/zh-cn/d
 With this plugin, you don't need to set `categories` one by one.
 `hexo-auto-category` generates static post `categories` automatically based on directory/folder name.
 
-
 ## Warning
 
 Your original categories will be **overwriten**.
+
