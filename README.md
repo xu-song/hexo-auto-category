@@ -1,3 +1,8 @@
+**[Installation](#installation)** |
+**[Configuration](#configuration)** |
+**[Demo](#demo)** |
+**[中文文档](https://blog.eson.org/pub/e2f6e239/)** |
+
 # hexo-auto-category
 
 <!--
@@ -7,8 +12,6 @@
 
 
 [Hexo](hexo.io) plugin, which generates categories automatically from folder structure for each post.
-
-[中文文档](https://blog.eson.org/pub/e2f6e239/)
 
 ## Installation 
 
