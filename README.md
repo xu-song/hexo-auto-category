@@ -23,7 +23,7 @@ $ npm install hexo-auto-category --save
 
 ## Configuration
 
-You can configure this plugin in site `_config.yml`
+You can configure this plugin in Hexo `_config.yml`
 
 ```yml
 # Generate categories from directory-tree
