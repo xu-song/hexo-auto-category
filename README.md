@@ -29,8 +29,10 @@ You can configure this plugin in Hexo `_config.yml`
 # Generate categories from directory-tree
 # Dependencies: https://github.com/xu-song/hexo-auto-category
 # depth: the max_depth of directory-tree you want to generate, should > 0
+# multiple: multiple category hierarchies
 auto_category:
  enable: true
+ multiple: true
  depth: 
 ```
 
