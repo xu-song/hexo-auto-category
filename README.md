@@ -53,6 +53,18 @@ categories:
   - framework
 ```
 
+If  you set `multiple: true`, the generated categories for post `source/_post/web/framework/hexo.md` is as follows:
+
+```
+categories:
+  - - web
+  - - framework
+```
+
+See more information about multiple category:
+
+https://hexo.io/docs/front-matter.html#Categories-amp-Tags
+
 ## Demo
 
 All the categories in [ESON's Blog](https://blog.eson.org/) are generated automatically by [`hexo-auto-category`](https://github.com/xu-song/hexo-auto-category).
