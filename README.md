@@ -32,7 +32,7 @@ You can configure this plugin in Hexo `_config.yml`
 # multiple: multiple category hierarchies
 auto_category:
  enable: true
- multiple: true
+ multiple: false
  depth: 
 ```
 
