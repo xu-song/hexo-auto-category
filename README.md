@@ -1,7 +1,7 @@
-**[Installation](#installation)** |
+**[🛠️Installation](#installation)** |
 **[⚙️Configuration](#configuration)** |
-**[🤗Demo](#demo)** |
-**[📖CN中文](https://blog.eson.org/pub/e2f6e239/)** |
+**[🌐Demo](#demo)** |
+**[📖CN中文文档](https://blog.eson.org/pub/e2f6e239/)** |
 
 # hexo-auto-category
 
